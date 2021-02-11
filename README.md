@@ -1,4 +1,4 @@
-# Trabalho Prático 1 - Conceitos e Algoritmos básicos de Grafos em Python
+# Conceitos e Algoritmos básicos de Grafos em Python
 
 ## Componentes
 
